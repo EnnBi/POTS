@@ -1,0 +1,2 @@
+adf,e.g., Electric Water Heater,e.g., Household Appliances,e.g., 50,Enter Reorder Level,e.g., RM350
+e.g., APL1234,e.g., Electric Water Heater,e.g., Household Appliances,e.g., 50,Enter Reorder Level,e.g., RM350

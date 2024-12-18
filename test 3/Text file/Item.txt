@@ -1,0 +1,13 @@
+I001      ;Kettle                   ;55   ;105  ;10.5      ;Kitchen Appliances                 
+I002      ;Table lamp               ;10   ;5    ;11.0      ;Room Appliances                    
+I003      ;Refrigerator             ;10   ;50   ;120.6     ;Kitchen Appliances                 
+I004      ;Microwave Oven           ;18   ;5    ;12.0      ;Kitchen Appliances                 
+I005      ;Dishwasher               ;10   ;50   ;120.6     ;Cleaning Appliances                
+I006      ;Washing Machine          ;29   ;5    ;120.6     ;Cleaning Appliances                
+I007      ;Dryer                    ;28   ;35   ;120.6     ;Cleaning Appliances                
+I008      ;Toaster                  ;37   ;5    ;120.6     ;Kitchen Appliances                 
+I009      ;Blender                  ;390  ;5    ;120.6     ;Kitchen Appliances                 
+I010      ;Coffee Maker             ;89   ;5    ;120.6     ;Kitchen Appliances                 
+I011      ;Air Conditioner          ;10   ;5    ;120.6     ;Room Appliances                    
+I012      ;Vacuum Cleaner           ;19   ;5    ;120.6     ;Cleaning Appliances                
+I013      ;Chair                    ;19   ;5    ;120.6     ;Cleaning Appliances                

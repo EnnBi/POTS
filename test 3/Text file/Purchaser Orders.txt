@@ -1,0 +1,11 @@
+PO001     ;I001      ;Kettle              ;50     ;S001      ;Pending        ;Waiting for approval
+PO002     ;I001      ;Kettle              ;50     ;S001      ;Approved       ;123
+PO003     ;I002      ;Table lamp          ;50     ;S001      ;Rejected       ;456
+PO004     ;I001      ;Kettle              ;50     ;S001      ;Received       ;Waiting for approval
+PO005     ;I010      ;Coffee Maker        ;50     ;S001      ;Received       ;789
+PO006     ;I001      ;Kettle              ;50     ;S001      ;Approved       ;Waiting for approval
+PO007     ;I001      ;Kettle              ;50     ;S001      ;Pending        ;Waiting for approval
+PO008     ;I001      ;Kettle              ;50     ;S001      ;Rejected       ;134
+
+
+

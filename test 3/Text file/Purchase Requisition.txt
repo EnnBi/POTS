@@ -1,0 +1,10 @@
+P001      ;zhenghao            ;Kettle              ;50        ;12/12/2024     ;Pending        ;This is my remark.                                
+P002      ;zhenghao            ;Dishwasher          ;45        ;22/11/2024     ;Pending        ;-                                                 
+P003      ;zhenghao            ;Refrigerator        ;10        ;22/11/2024     ;Pending        ;-                                                 
+P004      ;zhenghao            ;Dishwasher          ;10        ;22/11/2024     ;Pending        ;-                                                 
+P005      ;zhenghao            ;Dryer               ;30        ;22/11/2024     ;Pending        ;blabla                                            
+P006      ;zhenghao            ;Kettle              ;100       ;22/11/2024     ;Pending        ;Understock level                                  
+P007      ;zhenghao            ;Kettle              ;100       ;22/11/2024     ;Pending        ;                                                  
+P008      ;zhenghao            ;Kettle              ;100       ;22/11/2024     ;Pending        ;Under reorder level                               
+P009      ;zhenghao            ;Kettle              ;10        ;22/11/2024     ;               ;under restock level                               
+P010      ;zhenghao            ;Refrigerator        ;33        ;18/12/2024     ;Pending        ;Waiting for App                                   
